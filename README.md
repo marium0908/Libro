@@ -20,16 +20,16 @@ Libro is designed to digitize the traditional library experience. It provides us
 - **Identity Customization**: Update profile information (Name and Photo URL) with instant feedback.
 - **Responsive Mastery**: Polished experience across mobile, tablet, and desktop devices using Tailwind Grid and Flexbox.
   
- ##Tech Stack & NPM Packages Used
-Next.js 15 (App Router): The core framework for server-side rendering, routing, and high-performance frontend architecture.
-MongoDB & MongoDB Adapter: Professional NoSQL database integration using the official driver for persistent storage of book data and user information.
-Better Auth: A modern, framework-agnostic authentication system configured with a MongoDB adapter for secure session management and social/email login.
-Tailwind CSS: A utility-first CSS framework for rapid and responsive UI development.
-DaisyUI: A Tailwind CSS component library providing polished, themeable accessible UI elements.
-Framer Motion (motion/react): Production-ready animation library used for smooth page transitions and interactive micro-interactions.
-Swiper.js: A modern touch slider used for the interactive "Featured Books" showcase with hardware-accelerated transitions.
-Lucide React: A beautiful, consistent icon system for a clean and professional layout.
-React Hot Toast: Lightweight and customizable notification system for user action feedback (success/error alerts).
+## NPM Packages Used
+- **Next.js 15**: Core framework.
+- **Tailwind CSS**: Utility-first styling.
+- **DaisyUI**: Component library for polished UI elements.
+- **Framer Motion**: Production-ready animations.
+- **Lucide React**: Icon system.
+- **Swiper.js**: Interactive featured books slider.
+- **React Hot Toast**: Action confirmations and error handling.
+- **BetterAuth**: Framework-agnostic authentication with MongoDB Adapter.
+- **MongoDB**: Official driver for database connectivity.
 
 ## Meaningful Commits (10+)
 1. `init: initial project structure with next.js and layout`
