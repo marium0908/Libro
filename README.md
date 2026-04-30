@@ -7,7 +7,7 @@
 Libro is designed to digitize the traditional library experience. It provides users with a curated digital sanctuary to explore, search, and borrow books from a decentralized repository. The platform focuses on accessibility, performance, and a distinctive aesthetic inspired by classical modern libraries.
 
 ## Live URL
-[https://ais-dev-zqtoehwc2jazbiycs6kfd6-719482568080.asia-east1.run.app](https://libro-delta.vercel.app/)
+(https://libro-delta.vercel.app/)
 
 ## Key Features
 - **Curated Repository**: A diverse collection of books categorized by Story, Tech, and Science.
