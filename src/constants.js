@@ -6,7 +6,7 @@ export const INITIAL_BOOKS = [
     description: "The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it.",
     category: "Story",
     available_quantity: 5,
-    image_url: "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?q=80&w=1000&auto=format&fit=crop"
+    image_url: "https://i0.wp.com/www.raptisrarebooks.com/wp-content/uploads/2020/07/rrb-1115260.jpg?fit=1000%2C800&ssl=1"
   },
   {
     id: "2",
