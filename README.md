@@ -1,3 +1,4 @@
+
 # 📚 Libro Collective - Online Book Borrowing Platform
 
 ## 📌 Project Name
@@ -49,3 +50,9 @@ https://libro-collective.vercel.app/
 ## 🔐 Environment Variables
 
 Have a `.env.local` file:
+## Project Demo
+<img width="1920" height="2851" alt="screencapture-libro-collective-vercel-app-2026-05-01-14_41_53" src="https://github.com/user-attachments/assets/0d18f4a7-6e0b-4f69-b2e0-29cc3a3a59d6" />
+<img width="1920" height="1704" alt="screencapture-libro-collective-vercel-app-books-2026-05-01-14_42_11" src="https://github.com/user-attachments/assets/ca36dafe-b56f-4c37-b112-c3d545885639" />
+<img width="1920" height="1155" alt="screencapture-libro-collective-vercel-app-profile-2026-05-01-14_42_26" src="https://github.com/user-attachments/assets/612bd9aa-1969-4890-9886-4a3ac6d35426" />
+<img width="1920" height="1403" alt="screencapture-libro-collective-vercel-app-login-2026-05-01-14_42_47" src="https://github.com/user-attachments/assets/404e0047-1fc7-40a9-a7c9-6b929fee0e50" />
+<img width="1920" height="1553" alt="screencapture-libro-collective-vercel-app-register-2026-05-01-14_42_58" src="https://github.com/user-attachments/assets/42cf5a68-3c64-4cc7-9f69-a3537fb41cd8" />
