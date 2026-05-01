@@ -31,16 +31,3 @@ Libro is designed to digitize the traditional library experience. It provides us
 - **BetterAuth**: Framework-agnostic authentication with MongoDB Adapter.
 - **MongoDB**: Official driver for database connectivity.
 
-## Meaningful Commits (10+)
-1. `init: initial project structure with next.js and layout`
-2. `feat: implement auth context with localstorage persistence`
-3. `feat: design and implement navbar with conditional auth states`
-4. `feat: create homepage banner and dynamic marquee section`
-5. `feat: integrate swiperjs for featured books highlight gallery`
-6. `feat: build all books page with search and category sidebar filter`
-7. `feat: implement book details page as a private route with borrowing logic`
-8. `feat: create user profile dashboard with borrowed books list`
-9. `feat: add profile update functionality for name and photo url`
-10. `fix: add route-based redirects for private routes and loading states`
-11. `style: refine responsive designs across mobile and desktop`
-12. `docs: finalize project readme and submission details`
